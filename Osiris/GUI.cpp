@@ -1,7 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <string>
 #include <Windows.h>
-
 #include "imgui/imgui.h"
 #include "GUI.h"
 #include "Config.h"
