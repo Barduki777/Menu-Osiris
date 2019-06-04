@@ -8,6 +8,6 @@
 
 * **It is not an attempt of paste, just an recreation of menu cuz the original one it's not from my likelin.**
 
-* **Compiled DLL in Releases.**
+* **Compiled [DLL](https://github.com/Barduki777/Menu-Osiris/releases) in Releases.**
 
 ## [Video of Menu](https://youtu.be/KIQzZHC6co4)
