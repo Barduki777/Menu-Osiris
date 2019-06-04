@@ -18,11 +18,6 @@ void GUI::render() noexcept
 	MainMenu();
 }
 
-const char* iHitSound[] =
-{
-	"Off\0Default\0nani\0shkolnik\0GameSense\0German\0Headshooot\0FadeCSGO.tk"
-};
-
 extern void draw_gui();
 
 void GUI::checkboxedColorPicker(const std::string& name, bool* enable, float* color) noexcept
