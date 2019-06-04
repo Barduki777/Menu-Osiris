@@ -11,11 +11,9 @@ private:
     static void hotkey(int&) noexcept;
     void renderMenuBar() noexcept;
 	void MainMenu()  noexcept;
-	
 
     struct {
 		bool MainMenu{ false };
-
     } window;
 };
 
