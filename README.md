@@ -7,3 +7,5 @@
 ## Credits to [Osiris Creator](https://github.com/danielkrupinski/Osiris)
 
 * **It is not an attempt of paste, just an recreation of menu cuz the original one it's not from my likelin.**
+
+* **Compiled DLL in Releases.**
