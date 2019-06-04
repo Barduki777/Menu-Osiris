@@ -141,7 +141,6 @@ void GUI::MainMenu() noexcept {
 		ImGui::Text("");
 		ImGui::SameLine(150, 0);
 		ImGui::Text("     ");// xdxdxdddddddddddddddddddddd
-		
 		ImGui::SameLine(0, 9);
 
 		ImGui::SetCursorPosY(ImGui::GetCursorPosY() - 9);
