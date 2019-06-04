@@ -58,20 +58,6 @@ void GUI::hotkey(int& key) noexcept
 
 void GUI::renderMenuBar() noexcept
 {
-   /* if (ImGui::BeginMainMenuBar()) {
-        ImGui::MenuItem("Aimbot", nullptr, &window.aimbot);
-        ImGui::MenuItem("Triggerbot", nullptr, &window.triggerbot);
-        ImGui::MenuItem("Backtrack", nullptr, &window.backtrack);
-        ImGui::MenuItem("Glow", nullptr, &window.glow);
-        ImGui::MenuItem("Chams", nullptr, &window.chams);
-        ImGui::MenuItem("Esp", nullptr, &window.esp);
-        ImGui::MenuItem("Visuals", nullptr, &window.visuals);
-        ImGui::MenuItem("Skin changer", nullptr, &window.skinChanger);
-        ImGui::MenuItem("Misc", nullptr, &window.misc);
-        ImGui::MenuItem("Config", nullptr, &window.config);
-        ImGui::EndMainMenuBar();
-    }*/
-
 	ImGuiStyle& style = ImGui::GetStyle();
 	style.Alpha = 1.0f;
 	style.WindowPadding = ImVec2(0, 0);
