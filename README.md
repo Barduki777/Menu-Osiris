@@ -5,4 +5,4 @@ Osiris with different menu.
 -Slidewalk
 -Custom hitsounds from byte's (this is the reason why the source takes a while to compile.
 
-# Credits to [Osiris Creator] (https://github.com/danielkrupinski/Osiris)
+# Credits to [Osiris Creator](https://github.com/danielkrupinski/Osiris)
