@@ -563,7 +563,7 @@ void GUI::MainMenu() noexcept {
 				ImGui::Checkbox("Hit sound", &config.misc.hitSound);
 				ImGui::Text("");
 				ImGui::SameLine();
-				ImGui::Combo("Hitsound Type", &config.misc.iHitSound, "Off\0Default\0Pew\0Roblox\0Nya\0German\0Rust Headshot\0FadeCSGO.tk\0");
+				ImGui::Combo("Hitsound Type", &config.misc.iHitSound, "Off\0Custom\0Pew\0Roblox\0Nya\0German\0Rust Headshot\0FadeCSGO.tk\0");
 				//COMBOBOX HITSOUND
 				ImGui::PushItemWidth(90.0f);
 				ImGui::Text("");
