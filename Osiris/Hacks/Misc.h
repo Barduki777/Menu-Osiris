@@ -28,7 +28,7 @@ namespace Misc {
     void recoilCrosshair() noexcept;
     void watermark() noexcept;
     void prepareRevolver(UserCmd*) noexcept;
-	const char* _soundFileName = "csgo\\sound\\nya.wav";
+	const char* _soundFileName = "csgo\\Hitsound\\Hitsound.wav"; //make an folder in csgo called Hitsound and add your hitsound.wav into it.
 
     constexpr void fixAnimationLOD(FrameStage stage) noexcept
     {
@@ -137,7 +137,7 @@ namespace Misc {
 			switch (config.misc.iHitSound)
 			{
 			case 0: break;
-			case 1: PlaySoundA(rawData, NULL, SND_ASYNC | SND_MEMORY); break;
+			case 1: PlaySoundA(_soundFileName, NULL, SND_ASYNC); break; //custom one
 			case 2: PlaySoundA(pew, NULL, SND_ASYNC | SND_MEMORY); break;
 			case 3: PlaySoundA(roblox, NULL, SND_ASYNC | SND_MEMORY); break;
 			case 4: PlaySoundA(Nya, NULL, SND_ASYNC | SND_MEMORY); break;
