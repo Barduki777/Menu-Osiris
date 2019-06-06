@@ -3,6 +3,7 @@
 
 ## Stuff that i added:
 * **-Slidewalk and Custom hitsounds from byte's (this is the reason why the source takes a while to compile).**
+* **-Custom Hitsound with file, make an folder in csgo called Hitsound and add your Hitsound.wav into it.**
 
 ## Credits to [Osiris Creator](https://github.com/danielkrupinski/Osiris)
 
