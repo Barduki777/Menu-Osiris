@@ -28,7 +28,7 @@ namespace Misc {
     void recoilCrosshair() noexcept;
     void watermark() noexcept;
     void prepareRevolver(UserCmd*) noexcept;
-	const char* _soundFileName = "csgo\\Hitsound\\Hitsound.wav"; //make an folder in csgo called Hitsound and add your hitsound.wav into it.
+	const char* _soundFileName = "Hitsound\\Hitsound.wav"; //make an folder in csgo called Hitsound and add your hitsound.wav into it.
 
     constexpr void fixAnimationLOD(FrameStage stage) noexcept
     {
