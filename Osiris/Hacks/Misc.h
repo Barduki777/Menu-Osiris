@@ -139,11 +139,6 @@ namespace Misc {
 			case 0: break;
 			case 1: PlaySoundA(_soundFileName, NULL, SND_ASYNC); break; //custom one
 			case 2: PlaySoundA(pew, NULL, SND_ASYNC | SND_MEMORY); break;
-			case 3: PlaySoundA(roblox, NULL, SND_ASYNC | SND_MEMORY); break;
-			case 4: PlaySoundA(Nya, NULL, SND_ASYNC | SND_MEMORY); break;
-			case 5: PlaySoundA(hitler_wav, NULL, SND_ASYNC | SND_MEMORY); break;
-			case 6: PlaySoundA(Rust, NULL, SND_ASYNC | SND_MEMORY); break;
-			case 7: PlaySoundA(FadeCSGO, NULL, SND_ASYNC | SND_MEMORY); break;
 			}
 		}
 		
