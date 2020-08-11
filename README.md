@@ -1,4 +1,4 @@
-## Menu-Osiris
+## Menu-Osiris (outdated and shitty menu).
 * **Osiris with different menu.**
 
 ## Stuff that i added:
